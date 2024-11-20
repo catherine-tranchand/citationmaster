@@ -31,7 +31,7 @@ export default async function Page(){
 
         )}
         <Link className={buttonVariants({size: "lg", variant: "outline"})}href="/admin/citations/new">
-        Create citation
+        Create citation new citation
       </Link>
       </CardContent>
     </Card>
